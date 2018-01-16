@@ -1,0 +1,92 @@
+html{
+	background: url("jumboimage.jpg") no-repeat center center fixed;
+}
+
+h1{
+	color:darkgray;
+}
+
+p{
+	color:white;
+}
+
+body{
+	background:none;
+}
+label{
+	color:darkgray;
+}
+
+input{
+	margin:5px;
+	margin-top:20px;
+}
+
+.container{
+	margin-top:150px;
+	text-align: center;
+	width:500px;
+}
+
+form{
+	width:80%;
+	margin:0 auto;
+}
+
+#submit-button{
+margin-bottom:5px;
+margin-left:15px;
+}
+
+.btn:hover{
+	background-color:orange;
+	color:black;
+	border-color:black;
+}
+
+.btn{
+	background-color:darkgray;
+	border-color: black;
+
+}
+
+#results{
+	text-align:left;
+}
+
+li{
+	color:white;
+}
+
+span{
+	color:orange;
+}
+
+.container > a{
+	font-size:60%;
+}
+
+a, a:hover{
+	color:orange;
+}
+
+
+#itemName{
+	font-size:140%;
+	text-align: center;
+}
+
+.tt-menu{
+	background-color:gray;
+	border:1px solid darkgray;
+	color:black;
+}
+
+.tt-dataset{
+	width:250px;
+}
+
+hr{
+	border-top: 2px solid orange;
+	margin-top:20px;
+}
